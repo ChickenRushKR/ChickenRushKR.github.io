@@ -1,12 +1,19 @@
-## 김현진 깃허브
+### Introduce
 
-광운대학교 컴퓨터정보공학부에 재학중인 김현진입니다.
+Name: Hyeonjin Kim
 
-공부 열심히 해보겠습니다.
+Birth: 1997.04.10
 
-아래는 참고용으로 템플릿을 둔 것입니다.
+Univ: Kwangwoon Univ.
 
-### 참고용
+![Kwangwoon_mark_1](https://user-images.githubusercontent.com/67854851/124381052-6c7d8700-dcfb-11eb-9dde-d766429504e9.jpg)
+
+Major: Computer information engineering
+
+### Contact
+E-mail: zx8635@gmail.com
+
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
