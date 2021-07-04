@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## 김현진의 개발 로그
 
-You can use the [editor on GitHub](https://github.com/ChickenRushKR/ChickenRushKR.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+광운대학교 컴퓨터정보공학부에 재학중인 김현진입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+공부 열심히 해보겠습니다.
 
-### Markdown
+아래는 참고용으로 템플릿을 둔 것입니다.
+
+### 참고용
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
