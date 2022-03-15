@@ -18,13 +18,14 @@ Major2: Computer engineering
 E-mail: zx8635@gmail.com
 
 ### Project video
-1. Graduation work - 5G mmWave pathloss prediction model in urban (https://www.youtube.com/watch?v=PgxV-gg9C58) at Forth-Year student, Senior
-2. Software engineering lecture project - Shopping mall site creation (https://www.youtube.com/watch?v=ki_rnVMxbXg) at Forth-Year student, Senior
-3. Database lecture project - Student information management site creation (https://www.youtube.com/watch?v=aUYKGu4B_MA) at Thid-Year student, Junior
+[1. Graduation work - 5G mmWave pathloss prediction model in urban ](https://www.youtube.com/watch?v=PgxV-gg9C58) at Forth-Year student, Senior
+[2. Software engineering lecture project - Shopping mall site creation ](https://www.youtube.com/watch?v=ki_rnVMxbXg) at Forth-Year student, Senior
+[3. Database lecture project - Student information management site creation ](https://www.youtube.com/watch?v=aUYKGu4B_MA) at Thid-Year student, Junior
 
 
 ### Tistory
-**IstudyImage** - https://chickenrush.tistory.com/
+**IstudyImage** - [https://chickenrush.tistory.com/](https://chickenrush.tistory.com/)
+
 
 
 
