@@ -9,8 +9,9 @@ Univ: Kwangwoon Univ.
 ![Kwangwoon_mark_1](https://user-images.githubusercontent.com/67854851/124381052-6c7d8700-dcfb-11eb-9dde-d766429504e9.jpg)
 
 Major: Computer information engineering
+Major2: Computer engineering
 
-방문해주셔서 감사합니다. 저는 광운대학교 컴퓨터정보공학부에 재학중인 학부생 김현진입니다.
+방문해주셔서 감사합니다. 저는 광운대학교 대학원 컴퓨터공학과 김현진입니다.
 
 ### Contact
 E-mail: zx8635@gmail.com
@@ -21,8 +22,13 @@ E-mail: zx8635@gmail.com
 3. Database lecture project - Student information management site creation (https://www.youtube.com/watch?v=aUYKGu4B_MA) at Thid-Year student, Junior
 
 
-### 
+### Tistory
+**IstudyImage** - https://chickenrush.tistory.com/
 
+
+
+
+### HowToUseGithub.io
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
